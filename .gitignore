@@ -1,0 +1,10 @@
+node_modules
+./Backend/node_modules
+./Frontend/node_modules
+
+.idea
+./Backend/.idea
+./Frontend/.idea
+
+./Backend/.git
+./Frontend/.git
